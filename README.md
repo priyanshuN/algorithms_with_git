@@ -18,3 +18,4 @@ Happy Open Sourcing!
 - [binomialCoefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
 - [Dijkstra Shortest Path](algorithms/dijkstra)
+- [Binary_search](algorithms/Binary_search)
